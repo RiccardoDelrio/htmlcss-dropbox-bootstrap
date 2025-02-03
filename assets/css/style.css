@@ -1,0 +1,7 @@
+:root {
+    --drop-ligthblue: #b4d0e6;
+}
+
+.bg_set {
+    background-color: var(--drop-ligthblue);
+}
